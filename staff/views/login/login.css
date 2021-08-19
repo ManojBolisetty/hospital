@@ -1,0 +1,25 @@
+.div_center {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 33rem;
+  padding: 2em;
+}
+
+.card-title {
+  font-size: 2rem;
+}
+
+.login_btn {
+  width: 9rem !important;
+  height: 3rem;
+  margin: auto;
+}
+
+.input-field {
+  width: 100%;
+}

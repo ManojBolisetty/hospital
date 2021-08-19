@@ -1,0 +1,62 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.layout {
+    display: grid;
+    grid-template-columns: 18rem auto;
+}
+
+.div_center {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    /* box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); 
+    width: 87% !important;
+    height: 11rem;
+    border-radius: 20px;
+}
+
+.card:hover {
+/* box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); */
+box-shadow: 0 15px 20px 5px  rgba(64,224,208,0.25), 0 8px 15px 0 rgba(64,224,208,0.22); 
+}
+
+.card-body {
+    padding: 0px
+}
+
+.h-icon {
+    font-size: 3rem;
+}
+
+.options {
+    margin-top: 7em !important;
+}
+.card-image1{
+    
+    height:80px;
+    width:80px;
+   
+}
+.image1
+{
+   padding-top: 10px;
+    text-align: center;
+}
+.nav-bar
+{
+    background-color: turquoise !important;
+}
+.card .card-title
+{
+    font-size:21px !important;
+    font-weight: 400 !important;
+}

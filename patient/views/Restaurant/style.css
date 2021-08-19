@@ -1,0 +1,30 @@
+.size
+{
+	height: 600px;
+	width: 1024px;
+    
+
+}
+.card-container1{
+    background-color:white ;
+    padding: 12px;
+    border-radius: 3px;
+    margin: 10px;
+    height: 170px;
+    box-shadow: 0 8px 15px 0 rgba(64,224,208,0.2), 0 8px 15px 0 rgba(64,224,208,0.19); 
+
+}
+
+.card-image1{
+    height:80px;
+    width:80px;
+    margin-bottom: 10px;
+}
+.card{
+	margin-top: 70px;
+}
+ h6
+{
+    text-decoration:none;
+    color: #00CED1;
+}

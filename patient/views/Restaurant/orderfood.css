@@ -1,0 +1,48 @@
+.card-heading1{
+    color:#0f0e46;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+}
+.card-description1{
+color:#6c6b70;
+font-family:Roboto ;
+font-size: 13px;
+}
+.size
+{
+	height: 600px;
+	width: 1024px;
+}
+.card-container1{
+    background-color:white ;
+    padding: 13px;
+    border-radius: 3px;
+    margin: 10px;
+    justify-content: center;
+    height: 150px;
+    width: 1000px;
+
+
+}
+.card-image1{
+    height:100px;
+    width:150px;
+}
+input[type=number] {
+    width: 50px;
+}
+.tab
+{
+    margin: 10px;
+    padding: 10px;
+}
+.add
+{
+    width: 500px;
+    
+}
+tr
+{
+    width: 500px;
+}

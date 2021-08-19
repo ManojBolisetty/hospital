@@ -1,0 +1,17 @@
+.imgh
+{
+	
+	height: 100px;
+	width: 100px;
+}
+.card
+{
+	width: auto !important;
+    border-radius: 10px;
+    padding:10px;
+    justify-content: center !important;
+}
+.btn
+{
+    margin: 10px !important;
+}

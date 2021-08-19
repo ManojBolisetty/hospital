@@ -1,0 +1,14 @@
+.div_center {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.card-title {
+    font-size: 2rem;
+}
+
+
